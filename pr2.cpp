@@ -35,10 +35,6 @@ int main()
     print2(n);
 }
 
-
-
-
-
 // output
 //
 // *
