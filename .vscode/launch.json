@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Meher/OneDrive/Code/Pr/Daily_Practice",
-      "program": "c:/Users/Meher/OneDrive/Code/Pr/Daily_Practice/build/Debug/outDebug",
+      "cwd": "c:/Users/Meher/OneDrive/Code/Daily_Practice",
+      "program": "c:/Users/Meher/OneDrive/Code/Daily_Practice/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
