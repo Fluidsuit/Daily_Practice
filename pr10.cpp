@@ -82,6 +82,7 @@ void print6(int n)
     }
 }
 void print7(int n)
+
 {
     for(int i=0;i<n;i++)
     {
@@ -100,21 +101,52 @@ void print7(int n)
         cout<<endl;
     }
 }
+void print8(int n)
+{
+    for ( int i = 1; i <=2*n-1; i++)
+    {
+        int stars=i;
+        if(i>n) stars=2*n-i;
+        for(int j=1;j<=stars;j++)
+        {
+            cout<<"*";
+        
+        }
+        cout<<endl;
+    }
+}
+void print10(int n)
+{
+    int i,j;
+    for(i=1;i<=n;i++)
+    {
+        for(j=1;j<=n-i+1;j++)
+        {
+            cout<<j<<" ";
+        }
+        cout<<endl;
+    }
+}
 
 int main()
 {
-    int n;
-    cin>>n;
-    print7(n);
-    
+    int t;
+    cin>>t;
+    for(int i=0;i<t;i++)
+    {
+        int n;
+        cin>>n;
+        print10(n);
+    }
 }
 
 
-// output=
+// o/p
 
+// 1
 // 5
-// *********
-//  *******
-//   *****
-//    ***
-//     *
+// 1 2 3 4 5
+// 1 2 3 4
+// 1 2 3
+// 1 2
+// 1

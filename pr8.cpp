@@ -51,13 +51,13 @@ void print4(int n)
 }
 void print5(int n)
 {
-    int i,j;
+   int i,j;
     
     for(i=1;i<=n;i++)
     {
-        for(j=1;j<=i;j++)
+        for(j=0;j<n-i+1;j++)
         {
-            cout<<"*";
+            cout<<"* ";
         }
         cout<<endl;
     }

@@ -55,9 +55,9 @@ void print5(int n)
     
     for(i=1;i<=n;i++)
     {
-        for(j=1;j<=i;j++)
+        for(j=0;j<n-i+1;j++)
         {
-            cout<<"*";
+            cout<<"* ";
         }
         cout<<endl;
     }
@@ -81,7 +81,6 @@ void print6(int n)
         cout<<endl;
     }
 }
-
 int main()
 {
     int n;
