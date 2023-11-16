@@ -278,7 +278,7 @@ void print19(int n)
         inis += 2;
         cout<<endl;
     }
-    inis=8;
+    inis=2*n-1;
     for(int i=1;i<=n;i++)
     {
          //stars
