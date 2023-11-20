@@ -27,6 +27,7 @@ void print2(int n)
     }
 }
 
+
 int main()
 {
     int n;

@@ -115,6 +115,7 @@ void print8(int n)
         cout<<endl;
     }
 }
+
 int main()
 {   
     int n;
