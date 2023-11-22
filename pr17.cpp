@@ -260,6 +260,10 @@ int main()
 // 1
 // 5
 
+
+
+
+
 //     A
 //    ABA
 //   ABCBA
