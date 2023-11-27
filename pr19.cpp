@@ -313,6 +313,7 @@ int main()
         print19(n);
     }
 }
+
 // o/p:
 
 // 1
