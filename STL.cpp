@@ -2,37 +2,6 @@
 using namespace std;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Pairs
 void explainPair()
 {
@@ -48,30 +17,6 @@ void explainPair()
 
     cout<< arr[1].second;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // Vectors
 
