@@ -2,6 +2,20 @@
 using namespace std;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // Pairs
 void explainPair()
 {
@@ -17,6 +31,23 @@ void explainPair()
 
     cout<< arr[1].second;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // Vectors
 
@@ -92,4 +123,24 @@ void explainvector()
     v.clear();// erase the entire vector
     cout <<v.empty();
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
