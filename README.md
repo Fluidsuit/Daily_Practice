@@ -7,6 +7,8 @@ Daily Practice
    -> Function
    -> Iterations
 
+
+
 1. Pairs.
 2. Vectors
            -> How to create vector
