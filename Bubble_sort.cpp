@@ -1,5 +1,5 @@
 //Bubble sort
-// Time Complexcity :-  O(n^2)
+// Time Complexcity :- worst and avarage case O(n^2) and best case O(n)
 #include<iostream>
 using namespace std;
  
