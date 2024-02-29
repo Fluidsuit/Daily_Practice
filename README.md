@@ -17,3 +17,5 @@ Daily Practice
            -> How to interate vector
            -> How to erase element in Vector
            -> How to insert function
+3. Selection sort
+4. Bubble sort
