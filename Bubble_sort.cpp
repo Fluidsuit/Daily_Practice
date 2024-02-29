@@ -1,6 +1,5 @@
 //Bubble sort
-// Time Complexcity :- Worst and Average = O(n^2)
-//                     Best = O(n) 
+// Time Complexcity :-  O(n^2)
 #include<iostream>
 using namespace std;
  
