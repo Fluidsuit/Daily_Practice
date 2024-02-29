@@ -1,5 +1,5 @@
 //Bubble sort
-// Time Complexcity :-  
+// Time Complexcity :-  O(n^2)
 #include<iostream>
 using namespace std;
  
