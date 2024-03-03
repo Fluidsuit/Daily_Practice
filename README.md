@@ -19,3 +19,4 @@ Daily Practice
            -> How to insert function
 3. Selection sort
 4. Bubble sort
+5. Insertion Sort
