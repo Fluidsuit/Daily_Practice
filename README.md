@@ -1,6 +1,7 @@
 # Daily_Practice
 Daily Practice
 
+
 -> In file STL 
    -> Algorithums
    => Containers
@@ -20,3 +21,5 @@ Daily Practice
 3. Selection sort
 4. Bubble sort
 5. Insertion Sort
+6. Merge Sort
+7. Quick Sort
