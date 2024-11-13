@@ -21,3 +21,5 @@ public class Kadanes {
         kadanes(nums); 
     }
 }
+
+// O/P = The largest sum of the subarray is: 6
