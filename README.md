@@ -1,15 +1,12 @@
 # Daily_Practice
 Daily Practice
 
-
 -> In file STL 
    -> Algorithums
    => Containers
    -> Function
    -> Iterations
-
-
-
+   
 1. Pairs.
 2. Vectors
            -> How to create vector
@@ -23,3 +20,6 @@ Daily Practice
 5. Insertion Sort
 6. Merge Sort
 7. Quick Sort
+
+
+
