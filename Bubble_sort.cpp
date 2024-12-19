@@ -10,7 +10,7 @@ void Bubble_sort(int arr[],int n)
     for(int i=n-1;i>=0;i--)
     {
         int didswap=0; // (1) bcs what if input array is in already sorted order 
-        for(int j=0;j<=i-i;j++) // it also can be j<=i as last element should not to compare in bubble sort
+        for(int j=0;j<=n-i;j++) // it also can be j<=i as last element should not to compare in bubble sort
         {
             if(arr[j]>arr[j+1])
             {
